@@ -1,0 +1,1 @@
+MONGODB_URL=mongodb+srv://ayo-test:Batmanwasayo12@rezliant-demo-cluster.lpfdllx.mongodb.net/Rezliant?retryWrites=true&w=majority&appName=rezliant-demo-Cluster
